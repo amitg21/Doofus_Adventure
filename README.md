@@ -1,4 +1,4 @@
-# Doofus Adventure 🟩
+# Doofus Adventure 
 
 **Hitwicket Game Developer Challenge 2026**
 
